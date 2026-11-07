@@ -29,7 +29,7 @@ Testes e qualidade: Vitest, Playwright, axe. Integrações: WhatsApp, Resend, Cl
 |---|---|---|
 | [MatriculIA](https://github.com/ribeirore/grade-horaria-automatizada) | Montagem de grade horária com a oferta oficial da PUC-Rio. LIA Impact Lab 2026. Gera até cinco grades sem conflito. CI com 48 testes unitários e 14 cenários E2E antes de publicar. [Ver no ar](https://ribeirore.github.io/grade-horaria-automatizada/) | React, TypeScript, Vite, Playwright, GitHub Actions |
 | [Vaga Viva](https://github.com/melizamaia/Carioquinhas-Gestao-Estudantil) | Fila de creches da SME Rio: confere as pontuações na origem e libera vagas travadas. Claude Impact Lab Rio 2026. | Python (DuckDB, pandas), Claude API, Supabase com RLS |
-| [Renarte Briefing](https://github.com/ribeirore/funil-descobertas-renarte) | Funil mobile-first de briefing de encomendas, com fotos de referência e envio por e-mail. | React, Cloudflare Pages Functions, Resend |
+| [Renarte Briefing](https://github.com/ribeirore/funil-descobertas-renarte) | Funil mobile-first de briefing de encomendas, com fotos de referência e envio por e-mail. | JavaScript, Cloudflare Pages Functions, Resend |
 
 #### Contato
 
